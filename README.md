@@ -27,6 +27,12 @@ A Flask-based web application that predicts a user's wellness status based on th
    ```bash
    pip install -r requirements.txt
 2. Run the application:
-```bash
-python app.py
+   ```bash
+   python app.py
+The app will be available at: [http://127.0.0.1:5000](http://127.0.0.1:5000)
+
+3. Example usage:
+- Enter your sleep hours and daily screen time in the form.
+- Click "Predict" to see your wellness status.
+
 
