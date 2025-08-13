@@ -1,0 +1,84 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Prediction Result</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #f0f4f8;
+            display: flex;
+            justify-content: center;
+            align-items: flex-start;
+            height: 100vh;
+            padding-top: 50px;
+        }
+
+        .result-box {
+            background: white;
+            padding: 20px;
+            border-radius: 10px;
+            width: 320px;
+            text-align: center;
+            box-shadow: 0 0 10px rgba(0,0,0,0.1);
+        }
+
+        .label {
+            font-size: 22px;
+            font-weight: bold;
+            margin-bottom: 10px;
+        }
+
+        .optimal {
+            color: #2e7d32;
+            background-color: #e8f5e9;
+            padding: 10px;
+            border-radius: 8px;
+        }
+
+        .not-optimal {
+            color: #c62828;
+            background-color: #fdecea;
+            padding: 10px;
+            border-radius: 8px;
+        }
+
+        a, .logout-button {
+            display: inline-block;
+            margin-top: 15px;
+            text-decoration: none;
+            font-weight: bold;
+        }
+
+        a {
+            color: #2e7d32;
+        }
+
+        .logout-button {
+            color: white;
+            background-color: #c62828;
+            padding: 8px 16px;
+            border-radius: 6px;
+            margin-left: 10px;
+        }
+
+        .button-container {
+            margin-top: 20px;
+        }
+    </style>
+</head>
+<body>
+    <div class="result-box">
+        <p class="label">Your wellness status is:</p>
+        <p class="label {{ 'optimal' if prediction|lower == 'optimal' else 'not-optimal' }}">
+            {{ prediction|capitalize }}
+        </p>
+
+        <div class="button-container">
+            <a href="/">Try again</a>
+            <a class="logout-button" href="{{ url_for('logout') }}">Logout</a>
+        </div>
+    </div>
+</body>
+</html>

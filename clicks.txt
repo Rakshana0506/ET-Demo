@@ -1,0 +1,39 @@
+[2025-07-30 22:24:39] Rakshana - Signed Up
+[2025-07-30 22:24:47] Rakshana - Logged In
+[2025-07-30 22:24:47] Rakshana - Visited Wellness Prediction Page
+[2025-07-30 22:24:53] Rakshana - Submitted prediction: sleep=8.0, screen=1.0
+[2025-07-30 22:24:54] Rakshana - Visited Wellness Prediction Page
+[2025-07-30 22:24:58] Rakshana - Submitted prediction: sleep=6.0, screen=2.0
+[2025-07-30 22:24:59] Rakshana - Logged Out
+[2025-07-31 14:38:19] Alisha - Signed Up
+[2025-07-31 14:38:30] Alisha - Logged In
+[2025-07-31 14:38:30] Alisha - Visited Wellness Prediction Page
+[2025-07-31 14:39:13] Alisha - Submitted prediction: sleep=7.0, screen=10.0
+[2025-07-31 14:40:45] Alisha - Logged Out
+[2025-07-31 14:42:19] Rakshana - Logged In
+[2025-07-31 14:42:19] Rakshana - Visited Wellness Prediction Page
+[2025-07-31 14:42:26] Rakshana - Submitted prediction: sleep=8.0, screen=1.0
+[2025-07-31 14:42:29] Rakshana - Logged Out
+[2025-08-08 08:45:53] Rakshana - Logged In
+[2025-08-08 08:45:53] Rakshana - Visited Wellness Prediction Page
+[2025-08-08 08:46:01] Rakshana - Submitted prediction: sleep=8.0, screen=8.0
+[2025-08-08 08:46:04] Rakshana - Visited Wellness Prediction Page
+[2025-08-08 08:46:09] Rakshana - Submitted prediction: sleep=8.0, screen=1.0
+[2025-08-08 08:46:10] Rakshana - Logged Out
+[2025-08-12 01:18:07] Rakshana - Logged In
+[2025-08-12 01:18:07] Rakshana - Visited Wellness Prediction Page
+[2025-08-12 01:18:13] Rakshana - Submitted prediction: sleep=8.0, screen=2.0
+[2025-08-12 01:18:16] Rakshana - Logged Out
+[2025-08-12 14:18:30] Rakshana - Logged In
+[2025-08-12 14:18:30] Rakshana - Visited Wellness Prediction Page
+[2025-08-12 14:18:56] Rakshana - Logged In
+[2025-08-12 14:18:56] Rakshana - Visited Wellness Prediction Page
+[2025-08-12 14:19:06] Rakshana - Submitted prediction: sleep=8.0, screen=2.0
+[2025-08-12 14:19:09] Rakshana - Visited Wellness Prediction Page
+[2025-08-12 14:19:14] Rakshana - Submitted prediction: sleep=6.0, screen=5.0
+[2025-08-12 14:19:51] Rakshana - Visited Wellness Prediction Page
+[2025-08-12 14:20:33] AA - Signed Up
+[2025-08-12 14:20:37] AA - Logged In
+[2025-08-12 14:20:37] AA - Visited Wellness Prediction Page
+[2025-08-12 14:20:43] AA - Submitted prediction: sleep=123.0, screen=4.0
+[2025-08-12 14:20:44] AA - Visited Wellness Prediction Page
